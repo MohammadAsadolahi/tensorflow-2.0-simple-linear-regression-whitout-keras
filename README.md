@@ -1,4 +1,4 @@
-# Tensorflow-2.0-simple-linear-regression-whthout-Keras  
+# Tensorflow-2.0-simple-linear-regression-without-Keras  
 simple linear regressor that try to approximate a simple function deployed in tensorflow 2.0 whithout keras   
 WRITTEN BY MOHAMMAD ASADOLAHI  
 Mohammad.E.Asadolahi@gmail.com  
