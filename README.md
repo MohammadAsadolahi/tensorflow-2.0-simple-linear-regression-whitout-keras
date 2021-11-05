@@ -2,7 +2,8 @@
 simple linear regressor that try to approximate a simple function deployed in tensorflow 2.0 whithout keras   
 WRITTEN BY MOHAMMAD ASADOLAHI  
 Mohammad.E.Asadolahi@gmail.com  
-https://github.com/mohammadAsadolahi  
+https://github.com/mohammadAsadolahi    
+to do: deploy a simpller version whithout tensorfloow
 # weights and bias after 3000 step of Gradient descent 
 (<tf.Variable 'Variable:0' shape=(10, 1) dtype=float32, numpy=  
  array([[ 0.68809956],  
