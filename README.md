@@ -5,6 +5,7 @@ Mohammad.E.Asadolahi@gmail.com
 https://github.com/mohammadAsadolahi    
 https://www.linkedin.com/in/mohammadasadolahi    
 **to do: deploy a simpller version whithout tensorflow and another version with keras**
+**to do: use a regression dataset and test the model**
 # weights and bias after 3000 step of Gradient descent 
 (<tf.Variable 'Variable:0' shape=(10, 1) dtype=float32, numpy=  
  array([[ 0.68809956],  
