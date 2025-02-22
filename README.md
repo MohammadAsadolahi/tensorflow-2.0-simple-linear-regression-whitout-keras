@@ -1,9 +1,5 @@
 # Tensorflow-2.0-simple-linear-regression-without-Keras  
 simple linear regressor that try to approximate a simple function deployed in tensorflow 2.0 whithout keras   
-WRITTEN BY MOHAMMAD ASADOLAHI  
-Mohammad.E.Asadolahi@gmail.com  
-https://github.com/mohammadAsadolahi    
-https://www.linkedin.com/in/mohammadasadolahi    
 **to do: deploy a simpller version whithout tensorflow and another version with keras**
 **to do: use a regression dataset and test the model**
 # weights and bias after 3000 step of Gradient descent 
